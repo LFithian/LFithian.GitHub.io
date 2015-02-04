@@ -4,12 +4,13 @@ body {
 	font-family: Helvetica, sans-serif;
 }
 section {
-	margin:20px;
+	margin:0 0 1.5em 0;
 }
 #Splash {
-	background: #000 url(images/senior_residents_at_montepelier.jpg) no-repeat;
+	background:url(../images/senior_residents_at_montepelier.jpg) no-repeat;
 	background-size: cover;
 	height:100vh;
+	padding:1.5em;
 }
 #Adopt {
 }
