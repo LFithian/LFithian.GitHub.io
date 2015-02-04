@@ -1,40 +1,22 @@
-
+* {margin:0;padding:0;box-sizing:border-box;}
 body {
-	background: #000 url (images/senior_residents_at_montepelier.jpg) cover;
-	background-size: cover
+	background: #000 url(images/senior_residents_at_montepelier.jpg) cover;
+	background-size: cover;
+	color: #BFAE9F;
+	font-family: Helvetica, sans-serif;
 	text-align: center;
-	font-family: Helvetica; color: #BFAE9F;
+}
+section {
+	margin:20px;
 }
 #Adopt {
-	background: url(images/prettygirl_trf.jpg) no-repeat;
-	background-size: 1.5em;
-	width: 150px;
-	height: 150px;
-	margin: 20px
 }
-h1 {
-	font:#BFAE9F;
-	text-transform: uppercase;
+#Foster {
 }
-section#Foster {
-	background: url("images/profile.jpg");
-	background-size: 100px;
-	width: 150px;
-	height: 150px;
-	margin: 20px
-}
-
 #Sponsor {
-	background: url(images/heard.jpg);
-	background-size: cover;
-	width: 150px;
-	height: 150px;
-	margin: 20px
 }
 #Contact {
-	background: url(images/ponying.jpg);
-	background-size: cover;
-	width: 150px;
-	height: 150px;
-	margin: 20px
+}
+h1 {
+	text-transform: uppercase;
 }
