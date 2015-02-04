@@ -1,6 +1,6 @@
 * {margin:0;padding:0;box-sizing:border-box;}
 body {
-	background: #000 url(images/senior_residents_at_montepelier.jpg) cover;
+	background: #000 url(images/senior_residents_at_montepelier.jpg) no-repeat;
 	background-size: cover;
 	color: #BFAE9F;
 	font-family: Helvetica, sans-serif;
@@ -19,4 +19,7 @@ section {
 }
 h1 {
 	text-transform: uppercase;
+}
+img {
+	width:150px;
 }
