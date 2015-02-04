@@ -1,0 +1,40 @@
+
+body {
+	background: #000 url (images/senior_residents_at_montepelier.jpg) cover;
+	background-size: cover
+	text-align: center;
+	font-family: Helvetica; color: #BFAE9F;
+}
+#Adopt {
+	background: url(images/prettygirl_trf.jpg) no-repeat;
+	background-size: 1.5em;
+	width: 150px;
+	height: 150px;
+	margin: 20px
+}
+h1 {
+	font:#BFAE9F;
+	text-transform: uppercase;
+}
+section#Foster {
+	background: url("images/profile.jpg");
+	background-size: 100px;
+	width: 150px;
+	height: 150px;
+	margin: 20px
+}
+
+#Sponsor {
+	background: url(images/heard.jpg);
+	background-size: cover;
+	width: 150px;
+	height: 150px;
+	margin: 20px
+}
+#Contact {
+	background: url(images/ponying.jpg);
+	background-size: cover;
+	width: 150px;
+	height: 150px;
+	margin: 20px
+}
