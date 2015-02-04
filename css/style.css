@@ -1,13 +1,15 @@
 * {margin:0;padding:0;box-sizing:border-box;}
 body {
-	background: #000 url(images/senior_residents_at_montepelier.jpg) no-repeat;
-	background-size: cover;
 	color: #BFAE9F;
 	font-family: Helvetica, sans-serif;
-	text-align: center;
 }
 section {
 	margin:20px;
+}
+#Splash {
+	background: #000 url(images/senior_residents_at_montepelier.jpg) no-repeat;
+	background-size: cover;
+	height:100vh;
 }
 #Adopt {
 }
