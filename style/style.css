@@ -2,7 +2,6 @@
 body {
 	color:#BFAE9F;
 	background-image:url('images/bisk+daisy.jpg');
-	background-attachment:fixed;
 	background-size:cover;
 	background-repeat: no-repeat;
 	font-size:20px;
@@ -20,6 +19,7 @@ section {
 	padding:1.5em;
 }
 #Adopt {
+	width:33.3%;
 }
 #Foster {
 }
