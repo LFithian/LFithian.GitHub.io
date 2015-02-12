@@ -1,7 +1,7 @@
 * {margin:0;padding:0;box-sizing:border-box;}
 body {
-	color: #BFAE9F;
-	font-family: 'Cinzel Decorative', cursive;
+	color:#BFAE9F;
+	font-family:'Cinzel Decorative', cursive;
 	background-image:url('images/bisk+daisy.jpg');
 	background-attachment:fixed;
 	background-size:cover;
@@ -10,17 +10,14 @@ body {
 	font-weight:400;
 }
 section {
-<<<<<<< Updated upstream:css/style.css
 	margin:0 0 1.5em 0;
 }
 #Splash {
 	background:url(../images/senior_residents_at_montepelier.jpg) no-repeat;
-=======
 	margin:0 0 5em 0;
 }
 #Splash {
 	background:url(tito.jpg) no-repeat;
->>>>>>> Stashed changes:css/index.css
 	background-size: cover;
 	height:100vh;
 	padding:1.5em;
@@ -38,8 +35,4 @@ h1 {
 }
 img {
 	width:150px;
-<<<<<<< Updated upstream:css/style.css
 }
-=======
-}
->>>>>>> Stashed changes:css/index.css
