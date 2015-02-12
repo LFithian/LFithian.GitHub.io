@@ -2,6 +2,11 @@
 body {
 	color: #BFAE9F;
 	font-family: 'Oswald', sans-serif;
+	background-image:url('images/bisk+daisy.jpg');
+	background-attachment:fixed;
+	background-size:cover;
+	background-repeat: no-repeat;
+	font-size:16px;
 }
 section {
 <<<<<<< Updated upstream:css/style.css
