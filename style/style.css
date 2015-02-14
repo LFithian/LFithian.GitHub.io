@@ -1,7 +1,7 @@
 * {margin:0;padding:0;box-sizing:border-box;}
 body {
 	color:#BFAE9F;
-	background-image:url('images/bisk+daisy.jpg');
+	background-image:url('../images/bisk+daisy.jpg');
 	background-size:cover;
 	background-repeat: no-repeat;
 	font-size:18px;
@@ -9,7 +9,7 @@ body {
 	font-weight:400;
 }
 #Splash {
-	background:url(../tito.jpg) no-repeat;
+	background:url(../images/tito.jpg) no-repeat;
 	background-size: cover;
 	margin:0 0 5em 0;
 	height:100vh;
