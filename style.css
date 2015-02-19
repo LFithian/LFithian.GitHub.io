@@ -3,68 +3,49 @@ body {
 	color:#BFAE9F;
 	background-image:('../images/tito.jpg');
 	background-attachment:fixed;
-	background-size:100%;
+	background-size:cover;
 	background-repeat:no-repeat;
 	font-size:16px;
-	font-family:'Josefin Slab',serif;
+	font-family:'Oswald',sans-serif;
 	font-weight:400;
 }
+h1,h2,h3,h4,h5,h6 {
+	font-family:'Josefin Slab',serif;
+}
 p {
-	font-family:'Oswald',sans-serif;
-	font-size:16px;
 }
 #Splash {
 	background:url('../images/tito.jpg'); 
-	height:100%;
+	height:100vh;
 		}
 #Splash div{
 		padding:400px 0 0 200px;
-		border-style: solid; 
-		border-width: 2px;
-		border-color: #000;
 		width:100%;
 		padding:4.5em;
 }
 #Main {
 	padding:20em
-
 }
 #Adopt {
 	background-image:('../images/tito.jpg');
 }
 #Adopt div {
-	border-style: solid; 
-	border-width: 2px;
-	border-color: white;
 	background:url('../images/tito.jpg'); 
 	width:100%;
-	height:100%;
 	padding:1.5em;
 }
 #Foster {
-	border-style: solid; 
-	border-width: 2px;
-	border-color: white;
 	background:url('../images/tito.jpg'); 
 	width:100%;
-	height:100%;
 	padding:1.5em;
 }
 #Sponsor {
-	border-style: solid; 
-	border-width: 2px;
-	border-color: white;
 	background:url('../images/tito.jpg'); 
 	width:100%;
-	height:100%;
 	padding:1.5em;
 }
 #Contact {
-	border-style: solid; 
-	border-width: 2px;
-	border-color: white;
-	background:url(https://flic.kr/p/qWo1bi][img]https://farm8.staticflickr.com/7403/16367946277_7f51cdfefb_s.jpg[/img][/url][url=https://flic.kr/p/qWo1bi]263); 
+	background:url('../images/tito.jpg'); 
 	width:100%;
-	height:100%;
 	padding:1.5em;
 }
