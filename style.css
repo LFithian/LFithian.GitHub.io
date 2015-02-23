@@ -30,6 +30,7 @@ Section {
 #Adopt {
 	background-image:('../images/tito.jpg');
 	width:100%;
+	float:left;
 	padding:20%;
 }
 #Foster {
