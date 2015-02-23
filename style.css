@@ -13,9 +13,9 @@ body {
 	font-weight:400;
 }
 Section {
-	padding:20%;
+	padding:10%;
 }
-#Splash {
+Section#Splash {
 	height:100vh;
 	float:left;
 }
