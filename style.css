@@ -14,10 +14,11 @@ body {
 }
 #Splash {
 	height:100vh;
-	float:right;
+	float:center;
 	margin:10%;
-		}
+}
 #Splash div{
+		background-image:('../images/bisk+daisy.jpg');
 		width:100%;
 		padding:50em;
 }
