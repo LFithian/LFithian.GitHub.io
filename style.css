@@ -1,7 +1,7 @@
 * {margin:0;padding:0; box-sizing:border-box; border:2px solid #000;}
 body {
 	color:#BFAE9F;
-	background-image:('../images/bisk+daisy.jpg');
+	background-color: #F5ECCE; 
 	background-attachment:fixed;
 	background-size:cover;
 	background-repeat:no-repeat;
@@ -13,7 +13,7 @@ h1,h2,h3,h4,h5,h6 {
 	font-family:'Josefin Slab',serif;
 }
 #Splash {
-	background-color: #F5ECCE; 
+	background-image:('../images/bisk+daisy.jpg');
 	height:100vh;
 		}
 #Splash div{
