@@ -28,7 +28,7 @@ Section {
 	padding:20em
 }
 #Adopt {
-	background-image:('../images/tito.jpg');
+	background:url('../images/tito.jpg');
 	width:100%;
 	float:left;
 	padding:20%;
