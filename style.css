@@ -12,16 +12,13 @@ body {
 h1,h2,h3,h4,h5,h6 {
 	font-family:'Josefin Slab',serif;
 }
-p {
-}
 #Splash {
 	background-color: #F5ECCE; 
 	height:100vh;
 		}
 #Splash div{
-		padding:400px 0 0 200px;
 		width:100%;
-		padding:10em;
+		padding:50em;
 }
 #Main {
 	padding:20em
