@@ -2,7 +2,7 @@
 h1,h2,h3,h4,h5,h6 {
 	font-family:'Josefin Slab',serif;
 }
-body {
+body{
 	color:#BFAE9F;
 	background:url('../images/bisk+daisy.jpg');
 	background-attachment:fixed;
@@ -12,38 +12,34 @@ body {
 	font-family:'Oswald',sans-serif;
 	font-weight:400;
 }
-Section {
+Section{
 	padding:10%;
+	width:100%;
 }
-Section#Splash {
+Section#Splash{
 	height:100vh;
 	float:left;
 }
 #Splash div{
 		background:url('../images/bisk+daisy.jpg');
 		height:100vh;
-		padding:10%;
 }
-#Main {
+#Main{
 	padding:20em
 }
-#Adopt {
+#Adopt{
 	background:url('../images/tito.jpg');
 	width:100%;
-	padding:10%;
 }
-#Foster {
+#Foster{
 	background:url('../images/tito.jpg'); 
 	width:100%;
-	padding:10%;
 }
-#Sponsor {
+#Sponsor{
 	background:url('../images/tito.jpg'); 
 	width:100%;
-	padding:10%;
 }
-#Contact {
+#Contact{
 	background-color:#F5ECCE; 
 	width:100%;
-	padding:1.5em;
 }
