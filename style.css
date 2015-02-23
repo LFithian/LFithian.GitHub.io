@@ -12,15 +12,10 @@ body {
 	font-family:'Oswald',sans-serif;
 	font-weight:400;
 }
-#Splash {
-	height:100vh;
-	float:center;
-	margin:10%;
-}
 #Splash div{
 		background-image:('../images/bisk+daisy.jpg');
-		width:100%;
-		padding:50em;
+		height:100vh;
+		padding:10%;
 }
 #Main {
 	padding:20em
