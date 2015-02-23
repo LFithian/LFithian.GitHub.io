@@ -30,18 +30,17 @@ Section {
 #Adopt {
 	background:url('../images/tito.jpg');
 	width:100%;
-	float:left;
-	padding:20%;
+	padding:10%;
 }
 #Foster {
 	background:url('../images/tito.jpg'); 
 	width:100%;
-	padding:1.5em;
+	padding:10%;
 }
 #Sponsor {
 	background:url('../images/tito.jpg'); 
 	width:100%;
-	padding:1.5em;
+	padding:10%;
 }
 #Contact {
 	background-color:#F5ECCE; 
