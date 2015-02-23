@@ -1,7 +1,10 @@
 * {margin:0;padding:0; box-sizing:border-box; border:2px solid #000;}
+h1,h2,h3,h4,h5,h6 {
+	font-family:'Josefin Slab',serif;
+}
 body {
 	color:#BFAE9F;
-	background-color: #F5ECCE; 
+	background-image:('../images/bisk+daisy.jpg');
 	background-attachment:fixed;
 	background-size:cover;
 	background-repeat:no-repeat;
@@ -9,11 +12,7 @@ body {
 	font-family:'Oswald',sans-serif;
 	font-weight:400;
 }
-h1,h2,h3,h4,h5,h6 {
-	font-family:'Josefin Slab',serif;
-}
 #Splash {
-	background-image:('../images/bisk+daisy.jpg');
 	height:100vh;
 	float:right;
 	margin:10%;
