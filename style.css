@@ -4,7 +4,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 body {
 	color:#BFAE9F;
-	background-image:('../images/bisk+daisy.jpg');
+	background:url('../images/bisk+daisy.jpg');
 	background-attachment:fixed;
 	background-size:cover;
 	background-repeat:no-repeat;
@@ -20,7 +20,7 @@ Section {
 	float:left;
 }
 #Splash div{
-		background-image:('../images/bisk+daisy.jpg');
+		background:url('../images/bisk+daisy.jpg');
 		height:100vh;
 		padding:10%;
 }
