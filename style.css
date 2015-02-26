@@ -33,14 +33,17 @@ Span {
 }
 #Adopt{
 	background:url('../images/devoninsnow.jpg');
+	background-repeat:no-repeat;
 	width:100%;
 }
 #Foster{
 	background:url('../images/partitaandtito.jpg'); 
+	background-repeat:no-repeat;
 	width:100%;
 }
 #Sponsor{
 	background:url('../images/tito.jpg'); 
+	background-repeat:no-repeat;
 	width:100%;
 }
 #Contact{
