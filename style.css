@@ -23,6 +23,7 @@ Section#Splash{
 #Splash div{
 		background:url('../images/titoprofile.jpg');
 		height:100vh;
+		background-color:rgba(100,150,150,.75);
 }
 #Main{
 	padding:20em;
