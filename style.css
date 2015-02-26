@@ -29,12 +29,15 @@ Section#Splash{
 	padding:20em;
   	background-color:rgba(100,150,150,.5);
 }
+Span {
+	background-color:rgba(210,247,250,.5);
+}
 #Adopt{
-	background:url('../images/tito.jpg');
+	background:url('../images/devoninsnow.jpg');
 	width:100%;
 }
 #Foster{
-	background:url('../images/tito.jpg'); 
+	background:url('../images/partitaandtito.jpg'); 
 	width:100%;
 }
 #Sponsor{
@@ -42,6 +45,6 @@ Section#Splash{
 	width:100%;
 }
 #Contact{
-	background-color:#F5ECCE; 
+	background-color:rgba(210,247,250,.5); 
 	width:100%;
 }
