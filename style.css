@@ -13,11 +13,12 @@ body{
 	font-weight:400;
 }
 Section{
-	padding:10%;
+	padding:5%;
 	width:100%;
 }
 Section#Splash{
 	height:100vh;
+	float:left;
 }
 #Splash div{
 		background:url('../images/titoprofile.jpg');
