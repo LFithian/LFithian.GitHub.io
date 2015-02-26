@@ -25,8 +25,8 @@ Section#Splash{
 		height:100vh;
 }
 #Main{
-	padding:20em
-  	background: rgba(100,150,150,.5);
+	padding:20em;
+  	background-color:rgba(100,150,150,.5);
 }
 #Adopt{
 	background:url('../images/tito.jpg');
