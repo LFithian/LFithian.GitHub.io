@@ -18,7 +18,6 @@ Section{
 }
 Section#Splash{
 	height:100vh;
-	float:left;
 }
 #Splash div{
 		background:url('../images/titoprofile.jpg');
