@@ -25,13 +25,14 @@ Section#Splash{
 		height:100vh;
 }
 #Main{
-	padding:5em;
+	padding:10em;
 }
 Span {
-	background-color:rgba(210,247,250,.25);
+	background-color:rgba(16,16,36,.25);
 }
 #Adopt{
 	background:url('../images/devoninsnow.jpeg');
+	background-size:cover;
 	background-repeat:no-repeat;
 	width:100%;
 }
