@@ -25,8 +25,7 @@ Section#Splash{
 		height:100vh;
 }
 #Main{
-	padding:20em;
-  	background-color:rgba(100,150,150,.25);
+	padding:5em;
 }
 Span {
 	background-color:rgba(210,247,250,.25);
