@@ -16,6 +16,13 @@ body{
 	font-family:'Oswald',sans-serif;
 	font-weight:400;
 }
+header {
+	font-family:'Rouge Script', cursive;
+	position:fixed;
+	text-align:center;
+	padding:1em;
+	margin:1em;
+}
 Section{
 	padding:5%;
 	width:100%;
