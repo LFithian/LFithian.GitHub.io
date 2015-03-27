@@ -75,6 +75,17 @@ Span {
 #Adopt{
 
 }
+.columns{
+	padding:2em;
+	float:left;
+	background-color: rgba(0, 3, 0, 0.85);
+	color:#f6f6f6;
+	margin:5em 1em;
+	width:25%;
+	text-align:justify;
+	background:url('../images/titoprofile.jpg');
+	border-radius:50%;
+}
 #Foster{
 
 }
