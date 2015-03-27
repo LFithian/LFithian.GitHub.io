@@ -21,11 +21,11 @@ body{
 }
 header {
 	font-family:'Rouge Script', cursive;
-	position:fixed;
+	color:#BFAE9F;
+	position:relative;
 	text-align:left;
 	padding:1em;
 	font-size:10em;
-	background:rgba(0 0 0 .5);
 }
 Section{
 	padding:5%;
