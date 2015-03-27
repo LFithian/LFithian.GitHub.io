@@ -7,7 +7,7 @@ p {
 	line-height:1.25em;
 	text-align:justify;
 	padding: 1em;
-	font-size:15em;
+	font-size:6em;
 }
 body{
 	color:#BFAE9F;
@@ -24,7 +24,7 @@ header {
 	position:fixed;
 	text-align:center;
 	padding:2em 8em;
-	font-size:26em;
+	font-size:15em;
 	background:#fff;
 }
 .menu-btn div {
