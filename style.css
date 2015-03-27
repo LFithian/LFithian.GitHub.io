@@ -36,6 +36,7 @@ Section#Splash{
 }
 #Splash div{
 		background:url('../images/titoprofile.jpg');
+		background-repeat:no-repeat;
 		height:100vh;
 }
 #Main{
@@ -45,15 +46,10 @@ Span {
 	background-color:rgba(16,16,36,.25);
 }
 #Adopt{
-	background:url('../images/devoninsnow.jpeg');
-	background-size:cover;
-	background-repeat:no-repeat;
-	width:100%;
+
 }
 #Foster{
-	background:url('../images/partitaandtito.jpg'); 
-	background-repeat:no-repeat;
-	width:100%;
+
 }
 #Sponsor{
 	background:url('../images/tito.jpg'); 
