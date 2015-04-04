@@ -13,7 +13,7 @@ body{
 	color:#BFAE9F;
 	background:url('../images/bisk+daisy.jpg');
 	background-attachment:fixed;
-	background-size:50%;
+	background-size:cover;
 	background-color:rgba(210,247,250,.5);
 	background-repeat:no-repeat;
 	font-size:16px;
